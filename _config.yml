@@ -1,0 +1,9 @@
+remote_theme: "pages-themes/primer"
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+title: Un bel sito web
+description: La descrizione di un bel sito web
+lang: it-IT
